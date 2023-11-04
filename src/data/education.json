@@ -1,0 +1,26 @@
+[
+  {
+    "institution": "University of Phoenix",
+    "certification": "Bachelor's of Science, Information Technology & Programming | 2005-2009 | GPA: 3.89"
+  },
+  {
+    "institution": "Scrum.org",
+    "certification": "Certified Scrum Master | 2014"
+  },
+  {
+    "institution": "ScaledAgile.com",
+    "certification": "Certified SAFe Scrum Master | 2023"
+  },
+  {
+    "institution": "Microsoft",
+    "certification": "MCTS - Service Communications | 2010"
+  },
+  {
+    "institution": "Microsoft",
+    "certification": "MCTS - Data Access | 2010"
+  },
+  {
+    "institution": "Regis University",
+    "certification": "Client/Server Programming Bootcamp | 2000"
+  }
+]

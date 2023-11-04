@@ -1,0 +1,135 @@
+[
+  {
+    "companyName": "Symbiont.io",
+    "title": "Software Engineering Manager",
+    "location": "New York, NY (Remote)",
+    "years": "2022",
+    "reasonLeaving": "The startup declared bankruptcy and closed.",
+    "impacts": [
+      "Recruit, interview, hire, onboard, retain, coach, promotions, raises, 1:1, review, promote career development, and hold accountable all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, sales, and customers.",
+      "Established Agile process where no process had existed as the company realized it needed to mature.",
+      "Integrated Product Management with the engineering teams, establishing how the roles work together.",
+      "Leading member of the human-resources steering committee. Was a key contributor to the establishment and content of the annual review procedure.",
+      "My teams delivered two different, mission-critical, high-visibility products to production.",
+      "Increased engineer retention by working upon my arrival with unhappy team members.",
+      "Quickly learned blockchain concepts and gained product knowledge to increase my effectiveness."
+    ]
+  },
+  {
+    "companyName": "GreenPath Financial Wellness",
+    "title": "Software Engineering Manager",
+    "location": "Detroit, MI (Remote)",
+    "years": "2020-2022",
+    "reasonLeaving": "I desired to work again in a product company.",
+    "impacts": [
+      "Direct a mixed remote/hybrid development team, US-based. Included engineering and quality roles.",
+      "Recruit, interview, hire, onboard, retain, coach, promotions, raises, 1:1, review, promote career development, and hold accountable all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, sales, customers, and vendors.",
+      "Reestablished Agile processed that were shelved during COVID.",
+      "Promoted and mentored a brilliant senior engineer to the company’s first ever Application Architect role.",
+      "Promoted and mentored the company’s first ever DevSecOps Engineer.",
+      "Promoted and mentored the company’s first ever Automation Test Engineer.",
+      "Directly managed the UX (User Experience) design team",
+      "Directly managed and mentored an engineer on an internship from school.",
+      "Wrote the job description for, and recruited the company’s first ever Digital Product Manager.",
+      "Key contributor to developing a request for proposal, and contract finalization with a consulting firm for a large, two-year project.",
+      "Rescued a floundering off-shore/on-shore software project by setting expectations with the vendor and delivered a web application and mobile application.",
+      "Won a national Inspiring Leader award in 2020.",
+      "Member of company’s Inclusion, Diversity, Equity, and Access (I.D.E.A.) team."
+    ]
+  },
+  {
+    "companyName": "Phoenix Managed Networks",
+    "title": "Software Engineering Manager",
+    "location": "Phoenix, AZ (Remote)",
+    "years": "2018-2020",
+    "reasonLeaving": "Pandemic losses caused major force reduction.",
+    "impacts": [
+      "Direct remote software team, US-based. Included engineering, quality, and DevOps roles.",
+      "Recruit, interview, hire, onboard, retain, coach, promotions, raises, 1:1, review, promote career development, and hold accountable all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, sales, and customers.",
+      "My assigned mission upon hiring was to transform the software development practice which was self-described by the CEO as 'the wild west'.",
+      "Transformed the engineering culture by adding the correct roles to the team including Senior Developers, Test Automation Engineers and Dev/Ops engineers – and – installing Agile processes and policies including GitFlow, code repository management, software testing, project estimation, project management, sensitive data protection, code reviews, daily scrums, retrospectives, etc.",
+      "Personally designed and developed a ReSTful API for payment processing on a tight delivery deadline, saving a customer relationship.",
+      "Oversee/participate with team to design, develop, and deliver merchant portal using modern web frameworks.",
+      "Lead the initiative to break down the outdated, legacy monolithic gateway into micro-services, including architecture and development (the reduction in force due to the pandemic ended this initiative).",
+      "Orchestrated and lead the annual PMN Development Conference, an in-person gathering of the team."
+    ]
+  },
+  {
+    "companyName": "EVO Payments",
+    "title": "Software Engineering Manager",
+    "location": "Denver, CO",
+    "years": "2017-2018",
+    "reasonLeaving": "",
+    "impacts": [
+      "Direct software team, primarily US-based, System Architect was overseas.",
+      "Recruit, interview, hire, onboard, retain, coach, promotions, raises, 1:1, review, promote career development, and hold accountable all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, sales, and customers.",
+      "Established on-boarding procedures to get team members up to speed quickly.",
+      "Established policies and processes for code reviews, unit testing, design work, documentation, code ownership, and work estimation.",
+      "Worked with scrum master to improve processes on sprint cadence and other Scrum ceremonies."
+    ]
+  },
+  {
+    "companyName": "Influence Technologies",
+    "title": "Executive Vice President, Software Engineering",
+    "location": "Denver, CO",
+    "years": "2014-2017",
+    "reasonLeaving": "The startup declared bankruptcy and closed.",
+    "impacts": [
+      "Direct both the software team and the creative team (digital marketing creatives).",
+      "Recruit, interview, hire, onboard, retain, coach, promotions, raises, 1:1, review, promote career development, and hold accountable all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, sales, and customers.",
+      "Improved the relationship between software engineering team and creative team leading to faster delivery of digital marketing campaigns.",
+      "Established a Kanban-style process for the creative team to manage their work.",
+      "Wrote and reviewed code for ReSTful APIs and marketing experiences."
+    ]
+  },
+  {
+    "companyName": "Time Warner Cable",
+    "title": "Senior Scrum Master",
+    "location": "Denver, CO",
+    "years": "2013-2014",
+    "reasonLeaving": "I desired to return to team leadership and management.",
+    "impacts": [
+      "Oversee Agile processes, ceremonies, and delivery for multiple software teams.",
+      "Established a Kanban-style implementation in an Agile-challenged environment. Worked closely with product owners, engineers, testers, technical writers, requirements analysts, and project managers to increase workflow and visibility into the workflow.",
+      "Established a product roadmap view to provide SVP of Engineering with a view into the roadmap and progress.",
+      "Assisted with the formation of the “Agile Practices Guild” which was a regular gathering of Agile enthusiasts to discuss practices and team up on challenges.",
+      "Using spare time, personally developed the proof-of-concept version of the National Channel Service web application. The intention was to pioneer the use of AngularJS, and to prove the concept of the service.",
+      "Using spare time, I developed a web application (AngularJs) to mine the Jira API for data to display sprint progress and statistics in a different manner. The application was used as the focus of our daily stand-up meetings."
+    ]
+  },
+  {
+    "companyName": "IP Commerce",
+    "title": "Senior Software Engineer > Project Manager > Director of Software Engingeering",
+    "location": "Denver, CO",
+    "years": "2005-2012",
+    "reasonLeaving": "The startup failed and closed.",
+    "impacts": [
+      "Designed and developed key service, interface and library components for mission-critical, high-throughput .NET SOA solutions - including a Security Token Service.",
+      "Designed and implemented mission-critical databases. Emphasis on data integrity, index lifecycle and data lifecycle.",
+      "Manage project workflows from inception to delivery.",
+      "Manage software engineers and testers in daily activities.",
+      "Successfully project managed and delivered a mission-critical project on a “the company will not survive if delivered late” deadline. This made me the project manager of choice for difficult projects.",
+      "In a chaotic environment without much process, as a voice calling for improvements and professionalism, I was offered the role of project manager so that I would have the influence and authority necessary to implement processes and policies.",
+      "Promoted to Director, Product Development.",
+      "Implemented SQL partitioning scheme to alleviate critical application under-performance."
+    ]
+  },
+  {
+    "companyName": "Comprehensive Software Systems",
+    "title": "Junior Software Engineer > Senior Software Engineer",
+    "location": "Denver, CO",
+    "years": "2000-2005",
+    "reasonLeaving": "",
+    "impacts": [
+      "Design, write, and review software code for desktop and server.",
+      "Design, write, and review SQL database structures.",
+      "Promoted to Senior Software Engineer from Junior Software Engineer.",
+      "Lead engineer on the company’s very first .NET project."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "categories": ["Agility", "SDLC", "Leadership"],
+  "articles": [
+    {
+      "id": 0,
+      "title": "Testing for Agility",
+      "abstract": "Ken Schwaber, Qumer and Henderson-Sellers, and others, have created methods of measuring an organization's Agility. Here, inspired by their work, I have distilled some simple test cases for Agility. Removing the complexities of grading rubrics, a team simply passes or fails each test case - something all of us Quality Engineers can appreciate.",
+      "categories": ["Agility", "SDLC"]
+    },
+    {
+      "id": 1,
+      "title": "Stakeholder Symmetry",
+      "abstract": "For an organization to be successful, all of its stakeholders must experience success. But, the stakeholders success is a waterfall, and customers are not at the top.",
+      "categories": ["Leadership"]
+    },
+    {
+      "id": 2,
+      "title": "The Benefits and Goals of a Software Development Lifecycle (SDLC)",
+      "abstract": "Scrum, Waterfall, Scrumban, whatever your process is, all share a common goal.",
+      "categories": ["SDLC"]
+    },
+    {
+      "id": 3,
+      "title": "Making One-on-One's Awkwardly Great",
+      "abstract": "Regular, consistent, one-on-one meetings are critical to employee growth. Making them awkward leads to even greater gains.",
+      "categories": ["Leadership"]
+    },
+    {
+      "id": 4,
+      "title": "Being an Effective Engineering Leader",
+      "abstract": "Google had a rubric for engineering leaders, let's dig into it a littler deeper.",
+      "categories": ["Leadership"]
+    },
+    {
+      "id": 5,
+      "title": "The Remote Team Daily Scrum: A Tale in Two Chapters",
+      "abstract": "The team's daily scrum can lead to another opportunity for remote teams to build connections.",
+      "categories": ["SDLC", "Agility"]
+    },
+    {
+      "id": 6,
+      "title": "Questions to Spark a Retrospection",
+      "abstract": "A list of short questions that the facilitator can ask to get a slow retrospection meeting moving in the right direction.",
+      "categories": ["Agility"]
+    },
+    {
+      "id": 7,
+      "title": "The Three P's: People, Process, and Products",
+      "abstract": "For an organization, these three things are critical employee retention and customer happiness.",
+      "categories": ["Leadership"]
+    },
+    {
+      "id": 8,
+      "title": "A lightweight Agile SDLC",
+      "abstract": "Ken Schwaber says that 'the use of light-but-sufficient rules of project behavior and the use of human- and communication-oriented rules' are essential to an Agile SDLC.",
+      "categories": ["SDLC"]
+    },
+    {
+      "id": 9,
+      "title": "Product Management and Engineering: Working Together",
+      "abstract": "A discussion on how product and engineering come together for success.",
+      "categories": ["SDLC"]
+    }
+  ]
+}

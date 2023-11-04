@@ -1,0 +1,20 @@
+@media (max-width: 576px) {
+  .primary-info .name {
+    font-size: 32px;
+  }
+  .primary-info .title {
+    font-size: 26px;
+  }
+  .primary-info .lead {
+    display: none;
+  }
+  .resume-header .picture {
+    display: none;
+  }
+}
+
+@media (max-width: 755px) {
+  .resume-header .picture {
+    display: none;
+  }
+}

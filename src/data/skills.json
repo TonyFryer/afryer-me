@@ -1,0 +1,35 @@
+{
+  "management": [
+    { "name": "Written & Oral Communication", "value": 100 },
+    { "name": "People Management & Retention", "value": 100 },
+    { "name": "Agile Methodologies", "value": 100 },
+    { "name": "Project Management", "value": 100 },
+    { "name": "DevOps Management", "value": 60 },
+    { "name": "Quality Assurance Management", "value": 100 },
+    { "name": "UX Management", "value": 60 },
+    { "name": "Technical Writing", "value": 100 },
+    { "name": "Jira/Trello/ADO", "value": 100 }
+  ],
+  "frontend": [
+    { "name": "React", "value": 10 },
+    { "name": "JavaScript (Vanilla)", "value": 60 }
+  ],
+  "backend": [
+    { "name": ".Net Core (C#)", "value": 100 },
+    { "name": "Relational Database Development", "value": 100 },
+    { "name": "SOAP", "value": 100 },
+    { "name": "ReST", "value": 100 }
+  ],
+  "other": [
+    "UML",
+    "",
+    "CI/CD",
+    "Unit Testing",
+    "Wireframing",
+    "TDD",
+    "Test Automation",
+    "Postman",
+    "Scrum",
+    "Kanban"
+  ]
+}

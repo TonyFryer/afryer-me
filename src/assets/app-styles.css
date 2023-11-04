@@ -1,0 +1,174 @@
+/* You can add global styles to this file, and also import other style files */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+body {
+  font-family: "Catamaran" !important;
+}
+
+.accordion {
+  border: 0px solid #eee;
+}
+
+.accordion-header {
+  cursor: pointer;
+  font-weight: 300;
+}
+
+.accordion-header .accordion-chev {
+  color: #4db39d;
+}
+
+.accordion-container {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding: 0px 10px;
+  display: none;
+}
+
+.accordion-container.open {
+  display: block;
+}
+
+.img-thumbnail {
+  margin-top: 1rem;
+  margin-left: 1rem !important;
+  padding: 0.1rem;
+  background-color: #fff;
+  border: 0px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+  height: 150px;
+  width: 150px !important;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+  border-bottom: 4px solid transparent;
+  color: #495057;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  background: none;
+  border: none;
+  border-bottom: 4px solid #495057;
+  color: #032e4b;
+}
+
+.nav-tabs .nav-link:hover {
+  border: none;
+  border-bottom: 4px solid #e2e2e2;
+}
+
+.card-header {
+  background-color: #032e4b;
+  color: #fff;
+}
+
+.blogNav {
+  text-decoration: underline;
+  text-decoration-color: #e2e2e2;
+  -webkit-text-decoration-color: #e2e2e2;
+}
+
+.blogNav i {
+  font-size: 14px;
+  color: #999;
+  top: -6px;
+  position: relative;
+}
+
+.col-xl,
+.col-xl-auto,
+.col-xl-12,
+.col-xl-11,
+.col-xl-10,
+.col-xl-9,
+.col-xl-8,
+.col-xl-7,
+.col-xl-6,
+.col-xl-5,
+.col-xl-4,
+.col-xl-3,
+.col-xl-2,
+.col-xl-1,
+.col-lg,
+.col-lg-auto,
+.col-lg-12,
+.col-lg-11,
+.col-lg-10,
+.col-lg-9,
+.col-lg-8,
+.col-lg-7,
+.col-lg-6,
+.col-lg-5,
+.col-lg-4,
+.col-lg-3,
+.col-lg-2,
+.col-lg-1,
+.col-md,
+.col-md-auto,
+.col-md-12,
+.col-md-11,
+.col-md-10,
+.col-md-9,
+.col-md-8,
+.col-md-7,
+.col-md-6,
+.col-md-5,
+.col-md-4,
+.col-md-3,
+.col-md-2,
+.col-md-1,
+.col-sm,
+.col-sm-auto,
+.col-sm-12,
+.col-sm-11,
+.col-sm-10,
+.col-sm-9,
+.col-sm-8,
+.col-sm-7,
+.col-sm-6,
+.col-sm-5,
+.col-sm-4,
+.col-sm-3,
+.col-sm-2,
+.col-sm-1,
+.col,
+.col-auto,
+.col-12,
+.col-11,
+.col-10,
+.col-9,
+.col-8,
+.col-7,
+.col-6,
+.col-5,
+.col-4,
+.col-3,
+.col-2,
+.col-1 {
+  padding-right: 4px;
+  padding-left: 4px;
+}
+
+.row {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.card-header {
+  padding: 0.25rem 1.25rem;
+}

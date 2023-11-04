@@ -1,0 +1,567 @@
+{
+  "categories": ["Agility", "SDLC", "Leadership"],
+  "summary": "Welcome to my peronsal blog space. I am glad you came by. Here I will post things that interest me and are indicative of my beliefs. The primary use of this space is for me to centralize information that I have written or collected over my career. By centralizing it online I make it more accessible to me, my teams, my employer, and whomever stumbles across this site.",
+  "articles": [
+    {
+      "id": 0,
+      "title": "Testing for Agility",
+      "subtitle": "Test cases for outcomes of your Agile practices.",
+      "abstract": "Ken Schwaber, Qumer and Henderson-Sellers, and others, have created methods of measuring an organization's Agility. Here, inspired by their work, I have distilled some simple test cases for Agility. Removing the complexities of grading rubrics, a team simply passes or fails each test case - something all of us Quality Engineers can appreciate.",
+      "categories": ["Agility", "SDLC"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "I think of Agility as a cultural celebration, it is not always a precisely defined set of practices (of course, Scrum does define a set of practices). If the goal of our SDLC is to \"deliver value that delights customers and do it better and faster than your competitors so that customers ‘vote with their dollars’ to support your continuance in business by buying a product that supports their continuance in business\", how do we measure that we are being successful? We can test against our practices using the four tenets of the Agile Manifesto to categorize our test cases."
+        },
+        {
+          "type": "h2",
+          "content": "Individuals and interactions over processes and tools"
+        },
+        {
+          "type": "paragraph",
+          "content": "Developing successful software is social – human interactions are part of the equation. We need to participate in clear, un-restricted and concise face-to-face communications within the software team and with the stakeholders. No process or tool can replace the social aspect of effective software development."
+        },
+        {
+          "type": "paragraph",
+          "content": "People and their retention, skills, dedication and interactions are a primary concern. Software people make lots of important decisions every day and not every decision can be “managed” by a superior…nor should they be. Peter Drucker said that “every knowledge worker is an executive”. Hire motivated people, give them the big picture and release them (this does not excuse management from their responsibilities)."
+        },
+        { "type": "h3", "content": "Test Cases" },
+        {
+          "type": "list-items",
+          "content": [
+            "Test that the team understands that communication need not wait for a meeting nor occur only in an email chain.",
+            "Test that the product stakeholders and the software team have very frequent, scheduled, face-to-face meetings to discuss the current iteration.",
+            "Test that the product stakeholders and the software team regularly and frequently meet to discuss and groom the plan/backlog/roadmap.",
+            "Test that the software team regularly and frequently inspects their practices and results and adjusts behavior accordingly.",
+            "Test that the people are happy, are growing and are being creative.",
+            "Test that the people enjoy active (not passive) executive support at the highest levels."
+          ]
+        },
+        {
+          "type": "h2",
+          "content": "Working software over comprehensive documentation"
+        },
+        {
+          "type": "paragraph",
+          "content": "Document as predictively as you can, manage risk (small, fast releases), and measure value. By delivering early and frequent deliveries of incremental value we accentuate the importance of working software. Things that help us achieve this can include continuous integration, automated tests using BDD/TDD/QA, code reviews, a Kaizen attitude, etc."
+        },
+        {
+          "type": "paragraph",
+          "content": "Written documentation can be only as required by the customer or required by the software team or the stakeholders. Create and update them on the same schedule as the relevant software, and keep them short and salient. Consider documenting design rationale and critical decisions and components, not always a fully-detailed design. Code is not always the best way to express these concepts to new staff members."
+        },
+        { "type": "h3", "content": "Test Cases" },
+        {
+          "type": "list-items",
+          "content": [
+            "Test that the software team releases software in short cycles.",
+            "Test that the software team's product stakeholders validate and accept the release.",
+            "Test that the software team measures the business value of the software that has been delivered and accepted by the customers/stakeholders.",
+            "Test that the software team and the product stakeholders all estimate the work for an iteration and accept what the team feels is achievable – not to a theoretical math problem of man hours available. Software development is creative work, not always predictable.",
+            "Test that the software team strives to write only succinct documentation that conveys rationale and design documentation and that it is updated as needed on the same schedule as the software.",
+            "Test that the software team practices continuous integration that includes test automation.",
+            "Test that the software team practices YAGNI.",
+            "Test that the software team practices agile software architecture. Agile architecture can – without extreme refactoring – handle changes in environments and requirements. For example, a loosely coupled collection of specialized services and components could qualify."
+          ]
+        },
+        {
+          "type": "h2",
+          "content": "Customer collaboration over contract negotiation"
+        },
+        {
+          "type": "paragraph",
+          "content": "Immediate delivery feedback loops and collaborative planning involving customers is not an anathema to us. We need to involve them in the right details to get to the end goal. Customers and other stakeholders are not foreign to the team but are the purpose of the team’s work."
+        },
+        { "type": "h3", "content": "Test Cases" },
+        {
+          "type": "list-items",
+          "content": [
+            "Test that the software team is included in regular communication/feedback loops with actual customers and users - including face-to-face.",
+            "Test that the product stakeholders and the software team are always in sync with delivery goals and plans."
+          ]
+        },
+        {
+          "type": "h2",
+          "content": "Responding to change over following a plan"
+        },
+        {
+          "type": "paragraph",
+          "content": "Conduct appropriate planning – a plan should be considered a required element to a software project. Appropriate planning means less detail (time expenditure) on more distant aspects of the system. Make a product roadmap, chart out how functionality may flow into the software. Be positive and accepting to changes in the plan – change is a dominating force in software production. Planning helps us recognize change and helps us get things done and prevents us from building the wrong things."
+        },
+        {
+          "type": "paragraph",
+          "content": "Agility realizes that accepting changes to priorities and features is critical to the competitive advantage that we and our customers enjoy and enables us to deliver value faster than competitors."
+        },
+        {
+          "type": "quote",
+          "content": "\"In preparing for battle I have always found that plans are useless, but planning is indispensable.\" - Dwight D. Eisenhower"
+        },
+        {
+          "type": "list-items",
+          "content": [
+            "Test that the product stakeholders have an up-to-date and visible functionality roadmap for the product (and that the level of detail is appropriate to the proximity of the functionality’s need).",
+            "Test that the software team and the product stakeholders meaningfully interact regularly to help to steer the project forward by discussing the next known priorities and the roadmap.",
+            "Test that the software team plans goals for an iteration/release and that the level of detail is appropriate to the proximity of the goal.",
+            "Test that the software team has an up-to-date and visible functionality roadmap for the current iteration and the level of detail is appropriate to successfully deliver the work.",
+            "Test that the software team meaningfully interacts regularly with each other to help to steer the current iteration forward by discussing the in-progress work, the next priorities and the timeframe.",
+            "Test that the software team reacts with grace, determination and cheer to changing priorities from the customers and the product stakeholders.",
+            "Test that the product stakeholders trust the software team to participate meaningfully in setting goals and meeting them.",
+            "Test that the software team determines the best way to fulfill delivery responsibilities, technically and otherwise."
+          ]
+        },
+        {
+          "type": "h2",
+          "content": "The Schwaber Test Cases for Outcomes of Agility"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ken Schwaber has great content about measuring Agility in relation to his Agility Path approach. Additionally, he has some thoughts about testing the outcomes of Agility rather than just the culture and practices to help define the success level discovered in your implementation. Businesses make investments into software engineering departments in the hope that they do accomplish the ultimate goal, those businesses should require us to measure success and we should desire that pressure. Here is what is important: these test cases attempt to be metrics on the outcomes of the previous test cases – the outcomes of a healthy Agile process."
+        },
+        { "type": "h3", "content": "Test Cases" },
+        {
+          "type": "list-items",
+          "content": [
+            "Test that the ratio of software development budget to revenue is improving period to period.",
+            "Test that the ratio of company revenue per software development employee is improving period to period.",
+            "Test that software development employee retention is improving period to period.",
+            "Test that customer retention is improving period to period.",
+            "Test that software release frequency is not declining.",
+            "Test that the time required to get a small change into the field for a customer is appropriately short.",
+            "Test that the number of customers on the current release is climbing (customers on older versions adds overhead to the business).",
+            "Test that the number and severity of “found in the field” defects is at an acceptable level. We do not test the number of defects found in development; that is counter-productive."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Stakeholder Symmetry",
+      "subtitle": "Are you really a \"customer-focused\" business?",
+      "abstract": "For an organization to be successful, all of its stakeholders must experience success. But, the stakeholders success is a waterfall, and customers are not at the top.",
+      "categories": ["Leadership"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "Stakeholder Symmetry is a concept that was introduced to me early in my career by the two people I consider to be my first mentors. Bruce and Marshal Merrfield. The simple and obvious truth of this leadership philosophy resonated within me then, now, and will continue to do so throughout the rest of my life."
+        },
+        {
+          "type": "paragraph",
+          "content": "Any business has four types of stakeholders: Customers, Employees, Vendor, and the Shareholders or owners. Without the support of any of these groups, the business will struggle to achieve sustainable success. Stakeholder Symmetry is the notion that in order for a stakeholder in a business to remain energized and interested in participating in that business, the stakeholder must be receiving greater benefit than competing businesses are offering."
+        },
+        {
+          "type": "paragraph",
+          "content": "We've all heard the saying \"the customer is always right\" and while it is true, it suggests that the customer comes first. While good, this thinking is slightly off track. The customer should actually come second. With Stakeholder Symmetry the sequence in which each stakeholder group experiences success is a waterfall, it is sequential."
+        },
+        {
+          "type": "quote",
+          "content": "Stakeholder Symmetry is the notion that in order for a stakeholder in a business to remain energized and interested in participating in that business, the stakeholder must be receiving greater benefit than competing businesses are offering."
+        },
+        {
+          "type": "paragraph",
+          "content": "The first stakeholder group to experience success are employees. By attracting top talent and empowering them to act at their highest-best use and rewarding them with above market compensation and benefits, a business creates happy employees that stay around. Longevity produces efficiencies of knowledge and experience. Attrition, especially unwanted attrition, is expensive. Also, don't be shy about reminding your employees that they are indeed experiencing greater benefits at your organization, be proud of that."
+        },
+        {
+          "type": "paragraph",
+          "content": "The second stakeholder group to experience success are customers. When you have happy, motivated employees, that understand the business, they create happy customers by providing excellent service and products. Going the extra mile for customers becomes the standard, and because of the workplace environment you have created, you have a stronger right to ask your employees to perform at a higher level – so do that. Employee retention and compensation are directly linked to their performance and you’ve created a rewarding place to work."
+        },
+        {
+          "type": "paragraph",
+          "content": "The third stakeholder group to experience success are the shareholders and owners of the company. Happy customers that are enjoying great services and products will \"vote with their dollars\" and continue to fund the business' growth and future and they're less likely to seek a competitor to your company. Because they view your company as a \"value-added\" proposition they’re less likely to leave based on price alone. Have these conversations with your customers to not only hear about their successes and challenges, but to remind them how important they are to you, and the value your company brings to their business."
+        },
+        {
+          "type": "paragraph",
+          "content": "The last stakeholder group to experience success are vendors. As your company grows you will need more supplies. More software licenses, more copy paper, more of everything. Your vendors will grow as a result. Your growth gives your business increased influence with your vendors, and your belief in Stakeholder Symmetry helps you to evaluate the value they add to your company – you’re the customer now. Even the employees are experiencing additional success here as they get more and better tools and supplies to perform their important work."
+        },
+        {
+          "type": "paragraph",
+          "content": "The lesson that the Merrifields taught me is this: if you want to be a \"customer-focused\" business then you should first be an \"employee-focused\" business. Only then will the goal of truly satisfying customers be attainable."
+        },
+        {
+          "type": "image",
+          "content": "https://traxxdenver.files.wordpress.com/2023/02/stakeholder-symmetry.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Benefits and Goals of a Software Development Lifecycle (SDLC)",
+      "subtitle": "Creating process is challenging. Why should we do it anyway?",
+      "abstract": "Scrum, Waterfall, Scrumban, whatever your process is, all share a common goal.",
+      "categories": ["SDLC"],
+      "sections": [
+        { "type": "h2", "content": "What benefit does a process give us?" },
+        {
+          "type": "quote",
+          "content": "In software development, our process creates our development culture."
+        },
+        {
+          "type": "paragraph",
+          "content": "In general, a process should enable operations to run at an optimal pace by organizing repetitive actions."
+        },
+        {
+          "type": "paragraph",
+          "content": "It helps us to visualize activities and establish norms of behavior by communicating roles, expectations, and classes of service."
+        },
+        {
+          "type": "list-items",
+          "content": [
+            "Visualization helps us achieve goals and deadlines. By helping your mind align with goals through clarity.",
+            "Visualization improves transparency. Stakeholders can view the true status of the team’s efforts.",
+            "Visualization improves focus. By helping us avoid distractions and always be aware of the big picture.",
+            "Visualization creates reality. It reorients you conscious and subconscious thought process.",
+            "Visualization is motivating. By helping us envision delivered value, leading to greater productivity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "A process can act like a lens, giving the team a focus and concentrating the abilities."
+        },
+        {
+          "type": "image",
+          "content": "https://traxxdenver.files.wordpress.com/2023/02/lens-laser-focus.png"
+        },
+        {
+          "type": "paragraph",
+          "content": "In software development, our process creates our development culture. By describing how things are done, it provides us with the ability to make improvements in our process. At the end of the day there’s Conway’s Law, Team = Product = Team. The vices and virtues of the team will manifest themselves in the product. "
+        },
+        { "type": "h2", "content": "Goals of the SDLC" },
+        {
+          "type": "paragraph",
+          "content": "Ensure that development requirements are well defined and subsequently satisfied in the delivery of quality systems that meet or exceed customer expectations as promised and within cost estimates."
+        },
+        {
+          "type": "paragraph",
+          "content": "Provide a framework for developing quality systems using an identifiable, measurable, and repeatable process. Example: sprints provide focus and clarity on our immediate priorities."
+        },
+        {
+          "type": "paragraph",
+          "content": "Establish a project management structure to ensure that each system development project is effectively managed throughout its lifecycle. Example: planning, estimation, and multiple sprints provide a framework to deliver systems of all sizes."
+        },
+        {
+          "type": "paragraph",
+          "content": "Identify and assign the roles and responsibilities of all involved parties throughout the system development life cycle. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Making One-on-One's Awkwardly Great",
+      "subtitle": "Regular, consistent, one-on-one meetings are critical to employee growth. Making them awkward leads to even greater gains.",
+      "abstract": "Regular, consistent, one-on-one meetings are critical to employee growth. Making them awkward leads to even greater gains.",
+      "categories": ["Leadership"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "One-on-one meetings (1:1) are important. My practice is to schedule a 30-minute 1:1 with each direct reports that recurs every two weeks. Obviously, we can – and do – meet regularly, even daily, in groups or one-on-one to discuss workplace events, status, and priorities. However, this meeting time is specifically set aside to focus on the employee."
+        },
+        {
+          "type": "paragraph",
+          "content": "A 1:1 is not a \"status reporting\" session. Daily standup meetings and our normal team conversations cover that. Can we talk about how things are going with work? Sure, but a person should not feel like they have to prepare stuff for our sessions. A 1:1 is about that person’s success, working at the company, and how we can keep that a great partnership."
+        },
+        {
+          "type": "paragraph",
+          "content": "If our 1:1's aren't a bit awkward sometimes then we're not talking about the real stuff. This is a safe space to communicate openly, and respectfully, with each other. Don't worry about saying something \"wrong\" to me, just be yourself. I realize that we may not know each other too well at first, so I'll ask for some trust up front and I'll earn it as we go."
+        },
+        {
+          "type": "paragraph",
+          "content": "We are all grownups, and it is okay can have awkward conversations. For example, it's normal to sometimes feel a little burned out. Maybe that feeling makes you daydream about other opportunities. Maybe the person is worried about not making progress on a personal or professional growth area. Perhaps they’re stuck, or it seems like a waste of time. Who knows, there are a million possibilities."
+        },
+        {
+          "type": "paragraph",
+          "content": "Awkwardness can go the other way too. Sometimes praising a person can feel silly but it isn't. Sometimes, people become self-conscious when they are being praised. Hey, \"shout outs\" are important too."
+        },
+        {
+          "type": "paragraph",
+          "content": "Another area of awkwardness is discussing our areas of improvement, but these can actually be great conversations. Adding to the awkwardness facet is that I desire two-way communication. If there is something I can do better or differently, I would like to hear that. I get it, sometimes people don't feel comfortable offering their manager constructive feedback. I can handle it, and my ego is checked at the door. In the real world, people most often leave a company because of their manager. We don't desire that."
+        },
+        {
+          "type": "paragraph",
+          "content": "Speaking of self-improvement, I like to encourage what I call \"10% time\". This means I would be thrilled to see a person seek to invest 10% of their work hours actively learning and practicing something new. Work can get busy; I know this is hard to do sometimes and some people may even feel guilty about spending this time. However, the benefits to the person, the team, and the company are fantastic. What I hope is that it encourages people to keep making investments into yourselves."
+        },
+        {
+          "type": "paragraph",
+          "content": "In software development, we understand the spirit of \"kaizen\" which means \"continuous improvement\" and 1:1's are part of kaizen. All year long, we discuss professional growth and goals, personal achievements, and the challenges faced. This will make annual reviews more meaningful. An annual review is not the first time these topics should be covered and the content of that review should not be a surprise for either party."
+        },
+        {
+          "type": "paragraph",
+          "content": "Some typical questions I will ask in our 1:1's are listed here. Nope, it isn't a script, we won't hit all of them every time. They're just present to help us get the conversations going."
+        },
+        {
+          "type": "list-items",
+          "content": [
+            "What has gone well since we last talked? What could have gone better? (highlight/lowlight)",
+            "How are you feeling this week?",
+            "What could you, or the team, use a little more of or less of?",
+            "How's your work/life balance right now?",
+            "Is there anything I can help with for you, or the team? Is there anything I can do better?",
+            "Is there anything you'd like to be learning here but you aren't? Are you using your \"10% time\"?",
+            "How are you, me, and the company doing with regards to your career development and aspirations?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Getting back to awkward, every now and then, I'll mix in what's known as a \"stay interview\" where I'll ask some questions like those listed below. A stay interview is intended to help us surface really meaningful topics that help us understand why we want to work here. With me, I work hard to earn a person’s trust and they do not have to worry about these questions. I can handle whatever the person responds with because I have a genuine interest in their success and well-being."
+        },
+        {
+          "type": "list-items",
+          "content": [
+            "What do you like most/least about working here?",
+            "Where do you see your career going in the next year or two? Are your professional goals and expectations clear?",
+            "Do you feel like you can advance your career here?",
+            "Why do you stay here?",
+            "Have you recently thought about leaving? If so, what prompted it?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Lastly, 1:1’s can be teammate led too. These should be two-way conversations. I enjoy using a tool like Lattice that allows the person and I to use a shared agenda. This way, we can both make sure our talking points get covered. So, I really want people to feel free to step up and co-own these meetings, they’re really about that person’s success, so embrace the awkward, it’s perfectly wonderful."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Being an Effective Engineering Leader",
+      "subtitle": "Google has a rubric for engineering leaders, let's dig into it a littler deeper.",
+      "abstract": "Google has a rubric for engineering leaders, let's dig into it a littler deeper.",
+      "categories": ["Leadership"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "Back in 2008, Google conducted Project Oxygen, a research study to help managers become better leaders. They produced eight things that great managers do. This really resonated with me and over the years I have kept this list pinned to my corkboard in my office as a daily, visible reminder."
+        },
+        {
+          "type": "paragraph",
+          "content": "Ten years later, in 2018, Google revisited the results and evolved the list. They revised a couple of points and added two more. I have modified number ten, \"Collaborate across Google\", from my list as I do not work at Google."
+        },
+        {
+          "type": "quote",
+          "content": "It is a known fact that people leave a company because of a bad manager much more often than they leave for other reasons."
+        },
+        {
+          "type": "paragraph",
+          "content": "The team's delivery, accountability, health, growth, and morale are my top priorities - with a happy team of awesome people, we can do anything together."
+        },
+        { "type": "h2", "content": "Be a good coach" },
+        {
+          "type": "paragraph",
+          "content": "Build rapport with your direct reports. Have regular 1:1 meetings that are focused on the person’s goals, strengths, areas of improvements, and career. Give balanced feedback and seek two-way feedback and communication. "
+        },
+        {
+          "type": "paragraph",
+          "content": "In a team setting, use your communication skills to keep the team focused on their goals, strategy, and priorities. Encourage the team, speak of your faith in them, praise them when accomplishments are achieved."
+        },
+        { "type": "h2", "content": "Empower the team and do not micromanage" },
+        {
+          "type": "paragraph",
+          "content": "The Agile Manifesto encourages us to \"build teams around motivated individuals\" and that \"self-organizing teams\" yield the best results. Take this to heart. Let the team know that you are there to empower them. That you will put them out front and always have their backs. We’re all adults, each of us knows our profession, our responsibilities, and our strengths and areas of improvement, and are here for a common mission."
+        },
+        {
+          "type": "paragraph",
+          "content": "It is a known fact that people leave a company because of a bad manager much more often than they leave for other reasons. Empowerment leads to higher morale. Teams with high morale are more willing to push on in the face of difficulties. Teams with high morale find their work meaningful and feel motivated to work together. High morale is a buffer against inevitable setbacks and burnout, and a great indicator of the atmosphere in a team."
+        },
+        {
+          "type": "h2",
+          "content": "Create an inclusive team environment; show genuine interest in each team member’s success and well-being"
+        },
+        {
+          "type": "paragraph",
+          "content": "Give everyone on the team the ability to use their voices, to have their ideas and opinions heard. Demand that debates and discussions are held with professionalism and respect."
+        },
+        {
+          "type": "paragraph",
+          "content": "Welcome new team members, make sure that your onboarding process is up to date. Easing their onboarding and involving teammates in it adds to inclusivity."
+        },
+        {
+          "type": "paragraph",
+          "content": "Get to know each team member as a person with lives outside of work. You’ll better understand their situations and you’ll broaden the trust in the relationship. People are not \"bricks\" that are easily replaced, the trusted-relationship you foster will reward you both."
+        },
+        {
+          "type": "paragraph",
+          "content": "Focus on career progression discussions with all team members and provide regular input on how they can accomplish their goals."
+        },
+        { "type": "h2", "content": "Be productive and results-oriented" },
+        {
+          "type": "paragraph",
+          "content": "Focus on what team members want the team to achieve and how they can help achieve it. Help the team prioritize work and use my position to remove roadblocks. Contribute to the work where applicable. Accountability applies to yourself as well as the team."
+        },
+        {
+          "type": "h2",
+          "content": "Be a good communicator, listen and share information"
+        },
+        {
+          "type": "paragraph",
+          "content": "Communication is two-way, listening and sharing information is important. Hold all-hands team meetings as appropriate and be straightforward about the messages and goals of the team. Help the team connect the dots. Encourage open dialogue and listen to the issues and concerns of your team; of course, take action."
+        },
+        {
+          "type": "paragraph",
+          "content": "Sharing information builds trust with the team, don’t keep them in the dark. Be frank about our challenges and the meaning of deliveries. They’ll step up and work hard for you."
+        },
+        {
+          "type": "h2",
+          "content": "Support career development and discussed performance"
+        },
+        {
+          "type": "paragraph",
+          "content": "Engage the team members on how they want their career to develop; discuss their strengths and areas of improvement. Document and measure individual progress on clear goals that lead to career development. Give constructive feedback on progress. Care about their success and career development as much as they do."
+        },
+        {
+          "type": "h2",
+          "content": "Have a clear vision and strategy for the team"
+        },
+        {
+          "type": "paragraph",
+          "content": "Be an advocate of agile development. Even in the midst of turmoil, keep the team focused on priorities, goals, and strategy. Involve the team in setting and evolving the team’s vision and making progress toward it - give them \"skin in the game\". "
+        },
+        {
+          "type": "paragraph",
+          "content": "Partner with product management and other stakeholders to comprehend current and future product roadmap and upcoming feature details. Work closely with product management and design teams to ensure everyone has clear requirements, deadlines, and priorities."
+        },
+        { "type": "h2", "content": "" },
+        {
+          "type": "paragraph",
+          "content": "I believe that this is a bonus point, and not critical - it will apply differently at various companies depending on the role you need to play. Being technical is always helpful as it allows you to better understand the daily work of the team and the challenges that will arise."
+        },
+        {
+          "type": "paragraph",
+          "content": "If you’re not technical, you are still of immense value with delivery, communication, alignment, goal setting, reporting, shielding the team from unnecessary distractions, hiring, resource allocation, process management, managing work/life balance, and professional growth."
+        },
+        { "type": "h2", "content": "Be a strong decision maker" },
+        {
+          "type": "paragraph",
+          "content": "Listen to the team and identify goals. Gather information about alternative options. Consider the consequences of each alternative and make an informed decision. Evaluate the results afterwards. Good questions to ask are:"
+        },
+        {
+          "type": "list-items",
+          "content": [
+            "What Would Happen if We Did Not Do This?",
+            "What Could Make Us Regret This Decision?",
+            "What Alternatives Were Rejected in Choosing This Course of Action?",
+            "It’s a year from now and we’re looking back at this decision.",
+            "What’s happened that would make us regret the decision we’re about to make?",
+            "How Will We Later Know This Was the Right Decision?"
+          ]
+        },
+        { "type": "h2", "content": "Collaborate across the company" },
+        {
+          "type": "paragraph",
+          "content": "No team exists in isolation and collaboration across team and department lines is critical. Upward and outward reporting keeps stakeholders informed. Working with other teams establishes relationships of mutual support."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Questions to Spark a Retrospection",
+      "subtitle": "A list of short questions that the facilitator can ask to get a slow retrospection meeting moving in the right direction.",
+      "abstract": "A list of short questions that the facilitator can ask to get a slow retrospection meeting moving in the right direction.",
+      "categories": ["Agility"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "Sometimes retrospections can hit a dull patch. Questions can get redundant, people don’t always wish to participate fully. When that happens, here is a list of simple questions that the facilitator can ask to get conversations going."
+        },
+        { "type": "h2", "content": "Team Questions" },
+        {
+          "type": "list-items",
+          "content": [
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our testing practices and standards and stick the rating to the whiteboard.",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our development practices and standards and stick the rating to the whiteboard.",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our configuration management practices and standards and stick the rating to the whiteboard.",
+            "Go around the room, every say one word that described the previous iteration or release. Then talk about the extremes.",
+            "What one thing did the team do really well during this release?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the clarity of our release goals and stick the rating to the whiteboard. Did we achieve our release goals? Why? Why not?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the clarity of our product vision and stick the rating to the whiteboard. Can it be more clear? How?",
+            "Why do we do retrospectives?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our intra-team communications and stick the rating to the whiteboard. How can they improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our cross-team communications and stick the rating to the whiteboard. How can they improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our stand up meetings and stick the rating to the whiteboard. How can they improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our iteration planning meetings and stick the rating to the whiteboard. How can they improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our backlog grooming meeting and stick the rating to the whiteboard. How can they improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the JIRA board and stick the rating to the whiteboard. How can it improve?",
+            "Are our iterations too short or too long or just right?",
+            "Do we have enough testing time in our iterations?",
+            "Are we working well together with the testers, and they with us? Can it be better?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate our retrospectives and stick the rating to the whiteboard. Are they an opportunity to plan for improvement?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the quality of our product and stick the rating to the whiteboard. Is there anything we can do to increase the quality?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the quality of the stories we work on and stick the rating to the whiteboard. What could make them better?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the level of our technical debt on our product and stick the rating to the whiteboard. How should we address our technical debt?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate the performance metrics of our product and stick the rating to the whiteboard. How can we improve?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate how you think the Operations and Support teams feel about our product and stick the rating to the whiteboard. Does the product install and operate cleanly? If we can, how could improve that feeling?",
+            "Everyone grab a post-it note. On a scale of 1 to 4, with 1 being the lowest and 4 being the highest, rate how you think the consumers of our product feel and stick the rating to the whiteboard. If we can, how could improve that feeling?",
+            "Are there any new technologies we could use to our advantage to improve ourselves or our product?",
+            "From the last release or iteration, is there something that is still a puzzle or mystery to the team?",
+            "What are the healthiest, most beneficial aspects of our partnership with the consumers of our product? ",
+            "Ask each team member to try to briefly describe how their neighbour to the right felt during the iteration. Their neighbour confirms or corrects their guess. ",
+            "Everyone has 5 or 10 minutes to generate ideas to try on the development/testing/operations front. Let's talk about them all and vote on 2 or 3 to implement.",
+            "OK, just for fun. Draw a map of the company as if it was a country. What is the topography? Locations? Demographics?",
+            "Someone draw a big tree on the whiteboard. Everyone should write an idea on the tree. If is is easy, make it low on the tree. If it is hard, make it high. Team, which ideas should we implement?",
+            "Team Enthusiasm – a major component for a successful Agile team. If teammates aren’t enthusiastic, no process or methodology will help. 'Do you feel happy?' and 'How motivated do you feel?'",
+            "Quality – What does the term quality mean to you?"
+          ]
+        },
+        { "type": "h2", "content": "Individual Questions" },
+        {
+          "type": "list-items",
+          "content": [
+            "Are we too ambitious (or not ambitious enough) in our scope of work for iterations or releases? If so, how can we get better?",
+            "In the last release or iteration, is there one thing you think that either you or the team learned from?",
+            "What are the best parts of the system we’ve been building? What is the most well crafted area of the code? What characterizes that code?",
+            "What is the most valuable thing that the team has delivered in this product? What benefits have our consumers enjoyed?",
+            "What do you think is the most important characteristic of our team? When we are at our best, what is an important value that makes our team unique?",
+            "A genie pops out of a lamp you were just rubbing (stop snickering) and asks you to make one wish for the future of our team. What would that be?",
+            "If you had to write a review of this iteration on Amazon, what would the title of the review be? How many stars would it get out of 5? What would the content hint at?",
+            "What was the most helpful thing a team member did for you during this release? Why was it helpful?",
+            "What one thing would help the team become stronger?",
+            "Think of what you consider to be the best release of this product. What made it so good?",
+            "What one thing can our product stakeholders do to help us be more effective as a development and test team? ",
+            "What one long-term goal would you like to see the team achieve? What is the first step required to move towards it?",
+            "Describe something that has caused problems for you in this iteration?",
+            "Do you think we need any new development/testing/configuration tools?",
+            "What one thing should the team consider to start doing going forward?",
+            "What one thing should the team consider to stop doing going forward?",
+            "What one thing should the team consider to continue doing going forward?",
+            "If you were a hamburger, what kind of...wait...I'm kidding. What one thing do you need from this retrospective?",
+            "If you had to write a tweet about this iteration, what would it say? (write it on the whiteboard).",
+            "Write a problem on the board and lead a discussion into solving it.",
+            "When and what was your best/favorite collaboration? Why?",
+            "Estimation – What does the term estimation mean to you?",
+            "Agile – What does the term agile mean to you?",
+            "Sprint – What does the term sprint mean to you?",
+            "Acceptance Criteria – What does the term acceptance criteria mean to you?",
+            "Retrospective – What does the term retrospective mean to you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Three P's: People, Process, and Products",
+      "subtitle": "For an organization, these three things are critical employee retention and customer happiness.",
+      "abstract": "For an organization, these three things are critical employee retention and customer happiness.",
+      "categories": ["Leadership"],
+      "sections": [
+        {
+          "type": "paragraph",
+          "content": "The \"Three P's\" is my mantra, it is what I truly believe. These three things must be present for success to find a home in a company. Additionally, they must be present in that order - first you must have people, then process, then products."
+        },
+        {
+          "type": "quote",
+          "content": "When you a great staff of people, that are working efficiently and in an organized manner, and they have awesome products to build, sell, and support, the company, the employees, and the customers will all have success."
+        },
+        { "type": "h2", "content": "People" },
+        {
+          "type": "paragraph",
+          "content": "As in \"Stakeholder Symmetry\", people are the most important asset that a company can have. The Agile Manifesto teaches us to \"build teams around motivated individuals\" and that \"self-organizing teams\" will yield the best results. Recruit, hire, and retain talented people that are open-minded team players with low ego and high self-esteem. Compensate them with above market wages and benefits. Enagage and empower them to bring their best selves to work. Nurture their careers, give them opportunities to learn new skills, give them challenges and praise. Switching costs are expensive, so retain your best people. They're in a great situation, you've built a great culture, holding them accountable is part of that culture."
+        },
+        { "type": "h2", "content": "Process" },
+        {
+          "type": "paragraph",
+          "content": "A process is a set of procedures that organizes a repetative function. With regards to a software development process, Ken Schwaber leads us in the right direction when he says a process should be \"the use of light-but-sufficient rules of project behavior and the use of human- and communication-oriented rules\" to form our way of working. Teams of motivated and self-organizing people should participate in the formation of the process, giving them \"skin in the game\" to better follow and support the process. Then the development process becomes the development culture. The goal of the process is to \"deliver value that delights customers and do it better and faster than your competitors so that customers ‘vote with their dollars’ to support your continuance in business by buying a product that supports their continuance in business\"."
+        },
+        { "type": "h2", "content": "Products" },
+        {
+          "type": "paragraph",
+          "content": "Sure, I hear you, you must first have a product to sell that meets the needs of your target consumers. But, having the product idea is as far as I go with that. Without motivated, self-organizing people that are talented, challenged, and rewarded - and without an established, efficient \"way of working\", you will likely produce a poorly performing product. It may be buggy, or non-performing, and will fail to truly meet the needs of the consumers. They'll resist adoption of your product and \"vote with their dollars\" at your competitor's business. But it goes deeper than that. Having an awesome product to build and support is also critical. Building a great product that really helps customers do their jobs is very rewarding. Seeing people delightfully use something you built gives us all a great feeling inside. It's why we love our careers. "
+        }
+      ]
+    }
+  ]
+}
