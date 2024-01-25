@@ -12,13 +12,13 @@
   ],
   "frontend": [
     { "name": "React", "value": 10 },
-    { "name": "JavaScript (Vanilla)", "value": 60 }
+    { "name": "JavaScript", "value": 60 }
   ],
   "backend": [
-    { "name": ".Net Core (C#)", "value": 100 },
+    { "name": ".Net Core/ASP.NET (C#)", "value": 100 },
     { "name": "Relational Database Development", "value": 100 },
-    { "name": "SOAP", "value": 100 },
-    { "name": "ReST", "value": 100 }
+    { "name": "SOAP API", "value": 100 },
+    { "name": "ReST API", "value": 100 }
   ],
   "other": [
     "UML",
@@ -29,7 +29,9 @@
     "TDD",
     "Test Automation",
     "Postman",
+    "Git",
     "Scrum",
+    "Azure/AWS",
     "Kanban"
   ]
 }
