@@ -1,7 +1,7 @@
 import hobbyData from "../../data/hobbies.json";
 
 const HobbyItem = ({ hobby, text }) => (
-  <div className="card-body">
+  <div className="card-body" style={{paddingBottom: 0}}>
     <h5 className="card-title">{hobby}</h5>
     <h6 className="card-subtitle text-muted">{text}</h6>
   </div>

@@ -11,7 +11,7 @@ const SkillItem = ({ title, items }) => (
               <div className="resume-skill-name">{item.name}</div>
               <div className="progress resume-progress">
                 <div
-                  className="progress-bar theme-progress-bar-dark"
+                  className="progress-bar progress-bar-striped progress-bar-animated theme-progress-bar-dark"
                   role="progressbar"
                   style={{ width: `${item.value}%` }}
                   aria-valuenow="25"

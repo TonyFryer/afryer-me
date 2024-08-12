@@ -4,13 +4,18 @@
     "title": "Software Engineering Manager",
     "location": "Murray, UT (Remote)",
     "years": "2023 - 2024",
-    "reasonLeaving": "Company culture was poor; had a three month period of no work.",
+    "reasonLeaving": "I decided to leave R1 due to challenges with the company culture and a lack of job stability. During a three-month period without a project backlog, I kept the team focused and engaged by prioritizing upskilling. However, I ultimately sought an opportunity where I could contribute more effectively and be a part of meaningful solutions.",
     "impacts": [
-      "Direct 100% remote software team. Oversee all daily activities and long-range planning. Including engineering and quality roles.",
-      "Responsible for the full talent lifecycle, from recruiting and interviewing to onboarding, retention, coaching, promotions, salary increases, conducting regular one-on-one meetings, performance reviews, career development, and accountability for all team members.",
+      "Increased team velocity by improving our way of working, partnering with product management to improve the backlog, and challenging the team to intelligently push themselves to greater productivity.",
       "Revitalized team dynamics by strategically offboarding underperforming members and strategically recruiting high-caliber talent, resulting in a more efficient and productive team.",
-      "Plan and execute product delivery by interfacing with senior leadership, product management, and users.",
-      "Increased team velocity by improving our way of working, partnering with product management to improve the backlog, and challenging the team to intelligently push themselves to greater productivity."
+      "During a three-month period of no product work, I devised a learning curriculum for the team to skill-up on technologies such as React, Azure Event Hub, CosmosDB, Micro-frontend applications, S.O.A., and Event-driven Architectures.",
+      "Established Agile cadence and process, implemented Definition of Ready, Definition of Done, etc."
+    ],
+    "responsibilities": [
+      "In charge of developing healthcare financial applications, leveraging React and C# technologies, incorporating microservices and web components to handle highly confidential data.",
+      "Direct 100% remote software team. Oversee all daily activities and long-range planning. Including engineering and quality roles.",
+      "Manage the full talent lifecycle, from recruiting and interviewing to onboarding, retention, coaching, promotions, salary increases, conducting regular one-on-one meetings, performance reviews, career development, and accountability for all team members.",
+      "Plan and execute product delivery by interfacing with senior leadership, product management, and users."
     ]
   },
   {
@@ -18,17 +23,19 @@
     "title": "Software Engineering Manager",
     "location": "New York, NY (Remote)",
     "years": "2022",
-    "reasonLeaving": "The startup declared bankruptcy and closed.",
+    "reasonLeaving": "My reason for leaving was due to the company's closure, as it was a startup and could no longer continue operations.",
     "impacts": [
-      "Led and managed multiple globally distributed software teams, overseeing daily operations and long-term strategic planning. Responsibilities included guiding engineering, quality, and DevOps roles.",
-      "Responsible for the full talent lifecycle, from recruiting and interviewing to onboarding, retention, coaching, promotions, salary increases, conducting regular one-on-one meetings, performance reviews, career development, and accountability for all team members.",
-      "Successfully orchestrated product delivery by collaborating with senior leadership, product management, sales, and customers, ensuring seamless execution.",
-      "Led the implementation of an Agile process where none existed, introducing structure and efficiency, contributing to the organization's maturity.",
+      "Implemented an Agile process where none existed, contributing to the organization's maturity, introducing structure and efficiency.",
       "Fostered synergy between Product Management and engineering teams, establishing a harmonious working relationship that improved product development.",
-      "Played a key role on the 'Ghost Team', a human resource steering committee, actively contributing to the development and refinement of the annual review procedure.",
+      "Played a key role on the human resource steering committee, actively contributing to the development and refinement of the annual review procedure.",
       "Achieved the successful delivery of two mission-critical, high-visibility products to production through effective team leadership and project management.",
       "Significantly increased engineer retention by proactively addressing concerns and fostering a more positive team environment upon joining the organization.",
       "Demonstrated a rapid ability to grasp blockchain concepts and gain deep product knowledge, enhancing overall effectiveness in the role."
+    ],
+    "responsibilities": [
+      "Managing the full talent lifecycle, from recruiting and interviewing to onboarding, retention, coaching, promotions, salary increases, conducting regular one-on-one meetings, performance reviews, career development, and accountability for all team members.",
+      "Led and managed multiple globally distributed software teams, overseeing daily operations and long-term strategic planning. Responsibilities included guiding engineering, quality, and DevOps roles.",
+      "In charge of developing financial applications tailored for prominent investment firms, engineered on a proprietary blockchain platform. Utilizing React and a bespoke smart contract language derived from Python, ensuring robust and efficient solutions over sensitive data."
     ]
   },
   {
@@ -36,20 +43,21 @@
     "title": "Software Engineering Manager",
     "location": "Detroit, MI (Remote)",
     "years": "2020-2022",
-    "reasonLeaving": "I desired to work again in a product company.",
+    "reasonLeaving": "",
     "impacts": [
-      "Managed a diverse, US-based development team that combines remote and hybrid work arrangements, overseeing both engineering and quality roles.",
-      "Responsible for the full talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, facilitating promotions, managing salary increases, conducting one-on-one meetings, performance reviews, and actively supporting team members' career development.",
-      "Orchestrated and executed product deliveries by closely collaborating with senior leadership, product management, sales, customers, and vendors, ensuring seamless project execution.",
-      "Successfully reinstated Agile processes that were temporarily shelved during the COVID-19 pandemic, reestablishing a structured and efficient workflow.",
+      "Successfully reinstated Agile processes that were temporarily shelved during the COVID-19 pandemic, reestablishing a structured and efficient workflow - boosting productivity.",
       "Played a pivotal role in promoting and mentoring a highly skilled senior engineer to the company's first Application Architect position, demonstrating commitment to internal talent development.",
       "Spearheaded the promotion and mentoring of the company's first-ever DevSecOps Engineer, strengthening the organization's security and operational capabilities.",
       "Promoted and mentored the company's first Automation Test Engineer, enhancing product quality and testing procedures.",
       "Directly managed and mentored an intern from a school program, providing valuable guidance and hands-on experience.",
       "Spearheaded the recruitment of the company's first Digital Product Manager, enhancing product development and management capabilities.",
-      "Made significant contributions to the development of a request for multi-million dollar proposal and the finalization of a contract with a consulting firm for a substantial, two-year project, showcasing strong project management skills.",
-      "Rescued a challenging off-shore/on-shore software project by effectively setting expectations with the vendor and ultimately delivering a successful web application and mobile application.",
-      "Actively participated as a member of the company's Inclusion, Diversity, Equity, and Access (I.D.E.A.) team, contributing to a more inclusive and equitable workplace."
+      "Made significant contributions to the development of a request for proposal and the finalization of a contract with a consulting firm for a substantial, two-year project, showcasing strong project management skills.",
+      "Rescued a challenging off-shore/on-shore software project by effectively setting expectations with the vendor and ultimately delivering a successful web application and mobile application."
+    ],
+    "responsibilities": [
+      "Responsible for development of web applications, APIs, and database implementations for consumer credit counselling. Technologies included Angular, C#, and SQL Server in a hybrid cloud/on-premises environment.",
+      "Managing the full talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, facilitating promotions, managing salary increases, conducting one-on-one meetings, performance reviews, and actively supporting team members' career development.",
+      "Orchestrate and execute product deliveries by closely collaborating with senior leadership, product management, sales, customers, and vendors, ensuring seamless project execution."
     ]
   },
   {
@@ -57,17 +65,20 @@
     "title": "Director of Software Engineering",
     "location": "Phoenix, AZ (Remote)",
     "years": "2018-2020",
-    "reasonLeaving": "Pandemic losses caused major force reduction.",
+    "reasonLeaving": "Pandemic losses caused a major force reduction.",
     "impacts": [
-      "Managed a remote software team based in the United States, overseeing engineering, quality, and DevOps roles.",
-      "Responsible for the entire talent life cycle, encompassing recruitment, interviewing, hiring, onboarding, retention, coaching, promotions, salary adjustments, one-on-one sessions, performance evaluations, career development, and ensuring accountability across all team members.",
-      "Strategically planned and executed product deliveries, collaborating closely with senior leadership, product management, sales, and valued customers.",
-      "Undertook a pivotal role upon joining the company, tasked with transforming the software development practice by implementing the process and policies of a professional software development company.",
-      "Spearheaded a cultural shift in engineering by strategically expanding the team with essential roles, including Senior Developers, Test Automation Engineers, and DevOps Engineers. This transformation involved the implementation of Agile processes and policies, encompassing practices such as GitFlow, code repository management, software testing, project estimation, project management, data security, code reviews, daily scrums, retrospectives, and more.",
+      "Improved delivery cadence and product quality by transforming the software development practice culture, by implementing Agile practices where none had existed.",
+      "Spearheaded a cultural shift in engineering by strategically growing the team with essential roles, including Senior Developers, Test Automation Engineers, and DevOps Engineers. This transformation involved the implementation of Agile processes and policies, encompassing practices such code repository management, software testing, project estimation, project management, data security, code reviews, daily scrums, retrospectives, and more.",
       "Demonstrated hands-on skills by personally designing and developing a time-sensitive ReSTful API for payment processing, preserving a critical customer relationship.",
-      "Oversaw and actively participated in the design, development, and successful delivery of a modern web-based merchant portal, leveraging cutting-edge frameworks.",
+      "Oversaw and actively participated in the design, development, and successful delivery of a modern web-based merchant portal application, leveraging cutting-edge frameworks.",
       "Pioneered an initiative to decompose an outdated, legacy monolithic gateway into micro-services, contributing to architecture and development. Unfortunately, this initiative was halted due to the pandemic-related reduction in force.",
       "Orchestrated and led the annual PMN Development Conference, a noteworthy in-person gathering of the team, fostering knowledge sharing and collaboration."
+    ],
+    "responsibilities": [
+      "Responsible for development of web-based, white-labeled payment applications, public and private microservice API’s for transaction processing, and integrations with card and check processing vendors. Technologies included React, Vue, C#, and SQL Server in multi-tenant and client-owned environments.",
+      "Managed a remote software team based in the United States, overseeing engineering, quality, and DevOps roles.",
+      "Managed the entire talent life cycle, encompassing recruitment, interviewing, hiring, onboarding, retention, coaching, promotions, salary adjustments, one-on-one sessions, performance evaluations, career development, and ensuring accountability across all team members.",
+      "Strategically plan and execute product deliveries, collaborating closely with senior leadership, product management, sales, and valued customers."
     ]
   },
   {
@@ -77,12 +88,15 @@
     "years": "2017-2018",
     "reasonLeaving": "",
     "impacts": [
-      "Led a dynamic software team with primarily U.S.-based members, collaborating with a System Architect located overseas.",
-      "Managed the complete talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, overseeing promotions, salary adjustments, conducting one-on-one meetings, performance evaluations, actively supporting career development, and ensuring accountability for all team members.",
-      "Orchestrated and executed product deliveries through effective collaboration with senior leadership, product management, sales, and valued customers.",
       "Introduced streamlined onboarding procedures to expedite team members' integration, enabling rapid assimilation into their roles.",
       "Established and implemented policies and processes related to code reviews, unit testing, design work, documentation, code ownership, and work estimation, enhancing overall software quality and development efficiency.",
       "Collaborated closely with the Scrum Master to refine processes related to sprint cadence and other Scrum ceremonies, contributing to improved workflow and project management practices."
+    ],
+    "responsibilities": [
+      "Responsible for development of web-based payment applications, public and private API’s for transaction processing, and integrations with card and check processing vendors. Technologies included ASP.NET, C#, and SQL Server.",
+      "Led a dynamic software team with primarily U.S.-based members, collaborating with a System Architect located overseas.",
+      "Managed the complete talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, overseeing promotions, salary adjustments, conducting one-on-one meetings, performance evaluations, actively supporting career development, and ensuring accountability for all team members.",
+      "Orchestrated and executed product deliveries through effective collaboration with senior leadership, product management, sales, and valued customers."
     ]
   },
   {
@@ -90,17 +104,20 @@
     "title": "Executive Vice President, Software Engineering",
     "location": "Denver, CO",
     "years": "2014-2017",
-    "reasonLeaving": "The startup declared bankruptcy and closed.",
+    "reasonLeaving": "",
     "impacts": [
-      "Managed both a software team and a creative digital experience team (video designers, copy writers, UI/UX designers) responsible for the lifecycle of digital marketing experiences.",
-      "Responsible for the complete talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, promotions, salary adjustments, one-on-one meetings, performance evaluations, active support for career development, and ensuring accountability for all team members.",
-      "Strategically planned and executed product deliveries by collaborating closely with senior leadership, product management, sales, and valued customers.",
-      "Fostered improved collaboration and rapport between the software engineering and creative teams, resulting in accelerated delivery of digital marketing campaigns.",
+      "Strategically planned and executed highly visible and valuable product deliveries by collaborating closely with senior leadership, product management, sales, and valued customers.",
+      "Fostered improved collaboration and rapport between the software engineering team and the creative team, resulting in accelerated delivery of digital marketing campaigns.",
       "Introduced and managed a Kanban-style process for the teams to enhance their work management and efficiency.",
-      "Demonstrated hands-on expertise by both writing and reviewing code for ReSTful APIs and digital marketing experiences, ensuring the highest standards of quality and performance.",
+      "Demonstrated hands-on expertise by writing code for ReSTful APIs and digital marketing experiences, ensuring the highest standards of quality and performance.",
       "Devised and executed comprehensive policies and procedures to ensure the successful development of digital marketing applications. These encompassed the entire development lifecycle, including planning, resource allocation, scheduling, tools selection, creative ideation, design comps, requirements gathering, iterative reviews, client feedback integration, development, rigorous testing, seamless deployment, ongoing support, and efficient campaign management.",
       "Spearheaded the integration of new tools, such as Jira, Cloudinary, and Time Tracking, into the development process, enhancing workflow efficiency and project management capabilities.",
       "Pioneered the implementation of a company-wide biannual employee performance review policy, providing employees with timely and constructive retrospectives on their work and career goals. This initiative ensured that performance evaluations were consistently and effectively conducted across the organization, promoting professional growth and development."
+    ],
+    "responsibilities": [
+      "Responsible for development and support of an interactive, personalized, digital marketing platform utilizing ASP.NET, C#, and SQL Server.",
+      "Managed both a software team and a creative digital experience team (video designers, copy writers, UI/UX designers) responsible for the lifecycle of digital marketing experiences.",
+      "Responsible for the complete talent life cycle, including recruitment, interviewing, hiring, onboarding, retention strategies, coaching, promotions, salary adjustments, one-on-one meetings, performance evaluations, active support for career development, and ensuring accountability for all team members."
     ]
   },
   {
@@ -108,14 +125,16 @@
     "title": "Senior Scrum Master",
     "location": "Denver, CO",
     "years": "2013-2014",
-    "reasonLeaving": "I desired to return to team leadership and management.",
+    "reasonLeaving": "",
     "impacts": [
-      "Oversee Agile processes, ceremonies, and delivery for multiple software teams.",
-      "Established a Kanban-style implementation in an Agile-challenged environment. Worked closely with product owners, engineers, testers, technical writers, requirements analysts, and project managers to increase workflow and visibility into the workflow.",
       "Established a product roadmap view to provide SVP of Engineering with a view into the roadmap and progress.",
       "Assisted with the formation of the “Agile Practices Guild” which was a regular gathering of Agile enthusiasts to discuss practices and team up on challenges.",
       "Using spare time, personally developed the proof-of-concept version of the National Channel Service web application. The intention was to pioneer the use of AngularJS, and to prove the concept of the service.",
-      "Using spare time, I developed a web application (AngularJs) to mine the Jira API for data to display sprint progress and statistics in a different manner. The application was used as the focus of our daily stand-up meetings."
+      "Using spare time, I developed a web application to mine the Jira API for data to display sprint progress and statistics in a different manner. The application was used as the focus of our daily stand-up meetings."
+    ],
+    "responsibilities": [
+      "Oversee Agile processes, ceremonies, and delivery for multiple software teams. ",
+      "Established a Kanban-style implementation in an Agile-challenged environment. Worked closely with product owners, engineers, testers, technical writers, requirements analysts, and project managers to increase workflow and visibility into the workflow."
     ]
   },
   {
@@ -123,16 +142,19 @@
     "title": "Senior Software Engineer > Project Manager > Director of Software Engingeering",
     "location": "Denver, CO",
     "years": "2005-2012",
-    "reasonLeaving": "The startup failed and closed.",
+    "reasonLeaving": "",
     "impacts": [
-      "Designed and developed key service, interface and library components for mission-critical, high-throughput .NET SOA solutions - including a Security Token Service.",
+      "Progressed from Senior Software Engineer to Project Manager, to Software Engineering Manager, to Director of Product Development.",
+      "Designed and developed key service, interface and library components for mission-critical, high-throughput .NET SOA solutions.",
       "Designed and implemented mission-critical databases. Emphasis on data integrity, index lifecycle and data lifecycle.",
-      "Manage project workflows from inception to delivery.",
-      "Manage software engineers and testers in daily activities.",
-      "Successfully project managed and delivered a mission-critical project on a “the company will not survive if delivered late” deadline. This made me the project manager of choice for difficult projects.",
+      "Successfully project managed and delivered a mission-critical project on a “the company will not survive if delivered late” deadline. This made me the project manager of choice for difficult, high-visibility projects.",
       "In a chaotic environment without much process, as a voice calling for improvements and professionalism, I was offered the role of project manager so that I would have the influence and authority necessary to implement processes and policies.",
-      "Promoted to Director, Product Development.",
-      "Implemented SQL partitioning scheme to alleviate critical application under-performance."
+      "Implemented SQL partitioning scheme to alleviate critical under-performance in the application."
+    ],
+    "responsibilities": [
+      "Manage development and project workflows from inception to delivery to support.",
+      "Manage software engineers and testers in daily activities.",
+      "Responsible for development of web-based payment applications, public and private API’s for transaction processing, and integrations with card and check processing vendors. Technologies included ASP.NET, C#, and SQL Server."
     ]
   },
   {
@@ -142,10 +164,15 @@
     "years": "2000-2005",
     "reasonLeaving": "",
     "impacts": [
+      "Progressed from Junior Software Engineer to Senior Software Engineer.",
+      "Lead engineer on the company's very first .NET project.",
+      "Helped to define the organization's first User Interface Standards document."
+
+    ],
+    "responsibilities": [
       "Design, write, and review software code for desktop and server.",
       "Design, write, and review SQL database structures.",
-      "Promoted to Senior Software Engineer from Junior Software Engineer.",
-      "Lead engineer on the company’s very first .NET project."
+      "Was responsible to define requirements, interact with project managers, meet with clients, document software design and implement and test software."
     ]
   }
 ]
