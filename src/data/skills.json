@@ -11,8 +11,9 @@
     { "name": "Jira/Trello/ADO", "value": 100 }
   ],
   "frontend": [
-    { "name": "React", "value": 10 },
-    { "name": "JavaScript", "value": 60 }
+    { "name": "React", "value": 75 },
+    { "name": "JavaScript", "value": 90 },
+    { "name": "ASP.Net", "value": 50 }
   ],
   "backend": [
     { "name": ".Net Core/ASP.NET (C#)", "value": 100 },

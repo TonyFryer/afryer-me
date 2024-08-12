@@ -1,6 +1,6 @@
 {
   "name": "Anthony Fryer",
-  "imageUrl": "/images/profile.png",
+  "imageUrl": "/images/me-headshot.png",
   "title": "Engineering Leader, Director, & Manager",
   "email": "tonyfryer1029@gmail.com",
   "location": "Denver, Colorado",
@@ -16,6 +16,7 @@
       "icon": "fab fa-linkedin-in"
     }
   ],
-  "about": "Experienced Software Engineering Leader with over a decade of proven success in enhancing team performance through a dedicated commitment to team development, accountability, Agile methodologies, continuous improvement, and project management. My expertise extends to hands-on engineering, ensuring a well-rounded approach to software development. I have a track record of building and nurturing productive cross-functional relationships within and beyond the organization. I am actively seeking an opportunity to be a catalyst for positive growth in people, processes, and products, while collaborating with a talented team and making meaningful contributions to a mission-driven organization.",
+  "about": "Experienced Software Engineer and Engineering Leader that fosters teamwork and leadership, researches and learns; resolves ambiguity; motivates others; champions change; uses sound judgment; takes initiative and strives for excellence; wears many hats; achieves goals; acts with integrity; proactively contributes to the success of the business; shows work commitment, and maintains a positive attitude and performance in all situations.",
+  "about2": "I am actively seeking an opportunity to be a catalyst for a positive impact in people, processes, and products, while collaborating with a talented team and making meaningful contributions to a mission-driven organization.",
   "motto": "I am a developer of people, not just products."
 }

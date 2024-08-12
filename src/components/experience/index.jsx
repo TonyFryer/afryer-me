@@ -4,13 +4,17 @@ import { Link } from "react-router-dom";
 const Impacts = ({ impacts }) =>
   impacts.map((item, i) => <li key={i}>{item}</li>);
 
+const Responsibilities = ({ responsibilities }) =>
+  responsibilities.map((item, i) => <li key={i}>{item}</li>);
+
 const ExperienceItem = ({
   companyName,
   title,
   location,
   years,
   reasonLeaving,
-  impacts
+  impacts,
+  responsibilities
 }) => (
   <div className="card" style={{ border: "none" }}>
     <div className="card-block">
@@ -29,7 +33,6 @@ const ExperienceItem = ({
           >
             {years}
           </span>
-          {/* <h6 className="text-right card-subtitle text-muted mb-2">{reasonLeaving}</h6> */}
         </div>
       </div>
       <div className="row card-body" style={{ paddingTop: 0 }}>
@@ -38,7 +41,14 @@ const ExperienceItem = ({
           <ul>
             <Impacts {...{ impacts }} />
           </ul>
+          <h6 className="mb-1">Responsibilities</h6>
+          <ul>
+            <Responsibilities {...{ responsibilities }} />
+          </ul>
         </div>
+      </div>
+      <div className="row card-body" style={{ paddingTop: 0, marginLeft: '1em' }}>
+        <small className="card-subtitle text-muted mb-2">{reasonLeaving}</small>
       </div>
     </div>
   </div>
